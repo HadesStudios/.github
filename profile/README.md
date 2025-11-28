@@ -39,7 +39,7 @@ You can explore all the available standalone resources here:
 
 # 🚧DISCLAIMER🚧
 
-We do not own this framework, and we am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework. You can find Alzars orignal repo here [original repository](https://github.com/Alzar/Hades-framework)
+We do not own this framework, and we am simply trying to give it the support it deserves. The framework was originally built by Alzar & Dr Nick. Alzar has taken the liberty of releasing the framework. You can find Alzars orignal repo here [original repository](https://github.com/Alzar/mythic-framework)
 
 # Requirements
 
